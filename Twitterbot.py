@@ -4,7 +4,6 @@ import tweepy
 import time
 import json
 import random
-from config import consumer_key, consumer_secret, access_token, access_token_secret 
 
 #Twitter API Keys
 consumer_key = os.environ['cosumer_key']
